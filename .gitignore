@@ -11,4 +11,18 @@ wheels/
 
 SandBox/
 *.pygtex
+*.sov
+*.vrb
+*.aux
+*.toc
+*.log
+*.nav
+*.out
+*.snm
+*.blg
+*.bbl
+*.bcf
+*.run.xml
+*.brf
+*~
 
