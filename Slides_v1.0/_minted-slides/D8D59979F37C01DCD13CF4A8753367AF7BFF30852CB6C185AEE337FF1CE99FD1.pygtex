@@ -1,0 +1,4 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{n}{pip} \PYG{n}{install} \PYG{n}{marimo}
+\PYG{n}{marimo} \PYG{n}{edit}
+\end{Verbatim}

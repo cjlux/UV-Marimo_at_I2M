@@ -1,0 +1,4 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{n+nb}{cd}\PYG{+w}{ }myproj
+uv\PYG{+w}{ }init
+\end{Verbatim}
