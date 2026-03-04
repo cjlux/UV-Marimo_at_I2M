@@ -37,7 +37,7 @@ def _(mo):
 
 @app.cell(hide_code=True)
 def _(mo, s1):
-    mo.md(f"""
+    mo.md(rf"""
     f-strings are allowed within Makdwon cells $\leadsto$ check the 'f' case bellow the cell code  frame...<br>
     sliber _s1_ value: {s1.value}
     """)
@@ -68,7 +68,7 @@ def _(s2):
 
 @app.cell(hide_code=True)
 def _(mo):
-    mo.md(r"""
+    mo.md("""
     ### 🎂 Usage of `mo.hstack(...)` to horizonthaly concatenate objects
     """)
     return
